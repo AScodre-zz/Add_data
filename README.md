@@ -8,4 +8,4 @@ It reference the below post.
 
 ***
 
-The detailed tutorial can be found from https://github.com/BaerSy/myapp/blob/master/Nodejs%20MySQL%20Tutorial.pdf
+The detailed tutorial can be found from https://github.com/AScodre/Add_data/blob/master/Nodejs%20MySQL%20Tutorial.pdf
